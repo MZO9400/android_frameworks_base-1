@@ -3623,7 +3623,6 @@ public final class Settings {
         public static final String ALLOW_LIGHTS = "allow_lights";
 
         /**
-         * What color to use for the battery LED while charging - low
          * @hide
          */
         public static final String BATTERY_LIGHT_LOW_COLOR = "battery_light_low_color";
@@ -4240,6 +4239,7 @@ public final class Settings {
          * 6 - Launch Camera
          * 7 - Action Sleep
          * 8 - Last app
+         * 9 - Toggle split screen
          * @hide
          */
         public static final String KEY_HOME_LONG_PRESS_ACTION = "key_home_long_press_action";
