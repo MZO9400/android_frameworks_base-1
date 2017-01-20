@@ -3628,7 +3628,6 @@ public final class Settings {
         public static final String BATTERY_LIGHT_LOW_COLOR = "battery_light_low_color";
 
         /**
-         * Whether to show the battery bar
          * @hide
          */
         public static final String BATTERY_BAR_LOCATION = "battery_bar_location";
@@ -4239,7 +4238,9 @@ public final class Settings {
          * 6 - Launch Camera
          * 7 - Action Sleep
          * 8 - Last app
-         * 9 - Toggle split screen
+         * 9 - Toggle split screenn
+         * 10 - Task one-handed-mode left
+         * 11 - Task one-handed-mode right
          * @hide
          */
         public static final String KEY_HOME_LONG_PRESS_ACTION = "key_home_long_press_action";
